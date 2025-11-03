@@ -1,2 +1,2 @@
 # Maze-solving
-A maze solving algorithm implemented in haskell. Made for Lab 10 in Comp 105
+A maze solving algorithm implemented in haskell. Made for Lab 10 in Comp 105.
